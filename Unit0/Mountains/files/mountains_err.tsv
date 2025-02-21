@@ -1,0 +1,331 @@
+﻿Country	Type	Mountain	Latitude	Longitude	Elevation
+India	Mountain	Kakkir Malai Mountain	??????	??????	1015 m: unable to parse Latitude - ??????
+Italy	Mountain	Cimon della Pala    46.287224	11.820728	3185 m: Incorrect number of records - 5
+Australia	Mountain	Intermediate Hill	-31.5492823773527	159.087181091309	249.7: Unable to parse elevation - 249.7
+Australia	Mountain	Black Johnnys Tier	-42.043811	146.954842 1082 m: Incorrect number of records - 5
+Australia	Mountain	Prospect Mount	-33.8215358	150.915093	138.3: Unable to parse elevation - 138.3
+Australia	Mountain	Cobbitty Hill	-33.9833505	150.6961051	186.6: Unable to parse elevation - 186.6
+Australia	Mountain	Cecil Hill	-33.8802505	150.8331016	153.1: Unable to parse elevation - 153.1
+Australia	Mountain	Little Mountain	-33.9488034	150.6269899	155.5: Unable to parse elevation - 155.5
+Australia	Mountain	Smith's Hill	??????	??????	67 m: unable to parse Latitude - ??????
+Australia	Mountain	Mount Tunbubudla West	-26.963235 152.901278	294 m: Incorrect number of records - 5
+Australia    Mountain	Lowes Mount	-33.619265	149.834375	1150 m: Incorrect number of records - 5
+Australia	Mountain	Pyramid Hill	-36.051717	144.139816	193m: Unable to parse elevation - 193m
+Australia	Mountain	Pyungoorup Peak	-34.3585295718886	118.328075408936	1053.5: Unable to parse elevation - 1053.5
+Australia	Mountain	Mount Lockyer	-22.457122	118.772936 1005 m: Incorrect number of records - 5
+Australia	Mountain	Mount Barnett	-16.750879	125.939541 540 m: Incorrect number of records - 5
+Australia	Mountain	Post Office Hill	-18.1566176312595	125.578279495239	129.6: Unable to parse elevation - 129.6
+Australia	Mountain	Mount Nicolay    -27.110020	116.359463	358 m: Incorrect number of records - 5
+Australia	Mountain	Prominent Hill	-26419	121.482439	546 m: Latitude out of range - -26419.0
+Australia	Mountain	Teedermully Hill	-32.786553	116.612492	390 ??: Elevation units invalid - ??
+Australia	Mountain	Blue Hill    -29.590923	119.574766	402 m: Incorrect number of records - 5
+Australia	Mountain	Bare Hill	-31.050507	122.161531	362m: Unable to parse elevation - 362m
+Australia	Mountain	Haast Bluff	-23.364871	132010	1118 m: Longitude out of range - 132010.0
+Australia	Mountain	McDonald Peak	-28.254342	134.751005	???? m: Unable to parse elevation - ???? m
+Australia	Mountain	Coyanarup Peak	-34.385237701741	118.248081207275	1015.5: Unable to parse elevation - 1015.5
+Australia	Mountain	Davis Hill    -20.932583	140.615988	385 m: Incorrect number of records - 5
+Australia	Mountain	Mount Fitz    -22.459264	150.261297	279 m: Incorrect number of records - 5
+Australia    Mountain	Mount Shanahan	-30.032244	139.500532	364 m: Incorrect number of records - 5
+Australia	Mountain	Mount Oliphant    -30.293461	139.325953	624 m: Incorrect number of records - 5
+Australia	Mountain	Belo Hill	-31.9715320447388	137.254343032837	146.6: Unable to parse elevation - 146.6
+Australia	Mountain	Barker Hill	-32.3911235151708	136.531219482422	294.4: Unable to parse elevation - 294.4
+Australia	Mountain	Mount Miccollo	-32.519460268082	136.599712371826	359.4: Unable to parse elevation - 359.4
+Australia	Mountain	Reid Lookout	-32.4684950955172	136.963291168213	240.4: Unable to parse elevation - 240.4
+Australia	Mountain	Harris Bluff	-32.705122276393	136.746912002563	395.4: Unable to parse elevation - 395.4
+Australia	Mountain	Poutchina Hill	-32.4109073969415	137.136325836182	271.5: Unable to parse elevation - 271.5
+Australia	Mountain	Corunna North	-32.6557801282773	137.123622894287	386.7: Unable to parse elevation - 386.7
+Australia	Mountain	South Tent Hill	-32.3942399453649	137.524194717407	317.07: Unable to parse elevation - 317.07
+Australia	Mountain	Simmens Hill	-32.6935657995268	137.564792633057	276.9: Unable to parse elevation - 276.9
+Australia	Mountain	Katunga	-32.7742131991328	137.132806777954	297.3: Unable to parse elevation - 297.3
+Australia	Mountain	Mount Whyalla	-32.8268797515196	137.439651489258	232.6: Unable to parse elevation - 232.6
+Australia	Mountain	Station Hill	-32.8286107248011	137.787780761719	198.3: Unable to parse elevation - 198.3
+Australia	Mountain	Crag Point	-32.901857636855	137.780141830444	102.8: Unable to parse elevation - 102.8
+Australia	Mountain	Mount Arden	-32.1517078862074	137.978496551514	843.8: Unable to parse elevation - 843.8
+Australia	Mountain	Mount Brown	-32.5058530764024	138.00802230835	968.9: Unable to parse elevation - 968.9
+Australia	Mountain	Mount Intrepid	-28.741548 142.103176	205 m: Incorrect number of records - 5
+Australia	Mountain	Mount Birkhead	-24.445665	146.297207	626 ??: Elevation units invalid - ??
+Australia	Mountain    Mount Walpanara	-27.135077	149.124813	283 m: Incorrect number of records - 5
+Australia	Mountain	Sulcor Mountain	-30.843731	150.812244	693 ??: Elevation units invalid - ??
+Australia	Mountain	Byong Hills	-33.069750	147657	345 m: Longitude out of range - 147657.0
+Australia	Mountain    Red Hill	-32.720360	151.376238	203 m: Incorrect number of records - 5
+Australia	Mountain	Round Mountain	-28.333471	153.551445	???? m: Unable to parse elevation - ???? m
+Australia	Mountain	Mount Lookout	-30.485885 152.931576	236 m: Incorrect number of records - 5
+Australia	Mountain	Tinebank Mountain	-31.199441	152521	957 m: Longitude out of range - 152521.0
+Australia	Mountain	Mount Difficult	-37.0097495705803	142.441606521606	805.6: Unable to parse elevation - 805.6
+Australia	Mountain	Creighton Hills	-36.7645355703518	145.506448745728	299.9: Unable to parse elevation - 299.9
+Australia	Mountain	The Mound	-37.312154	145.020390 458 m: Incorrect number of records - 5
+Australia	Mountain	Mount Kosciuszko	-36.455877	148.263330	???? m: Unable to parse elevation - ???? m
+Australia	Mountain	The Viking	-37.119127	146.718464	1508m: Unable to parse elevation - 1508m
+Australia	Mountain	Mount Hump	-37629	146.783867	1238 m: Latitude out of range - -37629.0
+Australia	Mountain	Five Mile Peak	-38.970887	146.384668	560 ??: Elevation units invalid - ??
+Australia	Mountain	Snowy North	-42.861118	146.645765	???? m: Unable to parse elevation - ???? m
+Australia	Mountain	Mount Wellington	-42.8959627955431	147.237310409546	1270.53: Unable to parse elevation - 1270.53
+Australia    Mountain	Mount Dempsey	-15.862361	130.470715	264 m: Incorrect number of records - 5
+Australia	Mountain	Mount Gosse	-15.542180	131503	251 m: Longitude out of range - 131503.0
+Australia	Mountain	Yardiacco Hill	-28.754191	118.313913 459 m: Incorrect number of records - 5
+Austria    Mountain	Kapall	47.148606	10.248999	2315 m: Incorrect number of records - 5
+Austria	Mountain    Keeskogel	47.136328	12.311784	3291 m: Incorrect number of records - 5
+Austria	Mountain	Rinnkogel	47.666742	13.485926 1823 m: Incorrect number of records - 5
+Malawi    Mountain	Kabondwe	-11.632274	33.541038	1370 m: Incorrect number of records - 5
+Malawi	Mountain	Chimphako	??????	??????	1220 m: unable to parse Latitude - ??????
+Malawi	Mountain	Mateska	-16.936602	35.172428 953 m: Incorrect number of records - 5
+Lesotho	Mountain	Thaba Putsua	-30349	28.033985	2908 m: Latitude out of range - -30349.0
+Malawi    Mountain	Nakasindagombwe	-9.662151	33.316947	1348 m: Incorrect number of records - 5
+Mozambique	Mountain	Camuala	-14.807983	32.183669	1104 ??: Elevation units invalid - ??
+Mozambique	Mountain	Muijeleveti	-12.707444	35.878231	???? m: Unable to parse elevation - ???? m
+Mozambique	Mountain	Namocolue	-13.628042	37.767223 556 m: Incorrect number of records - 5
+Mozambique	Mountain    Niuapa	-13.156035	38.390286	623 m: Incorrect number of records - 5
+Mozambique	Mountain	Tava	-12.723603	39.259216	???? m: Unable to parse elevation - ???? m
+Mozambique	Mountain	Tecapuaro	-13.985292 39.268144	456 m: Incorrect number of records - 5
+Mozambique	Mountain	Lipembe	-16.288878	35.708239	???? m: Unable to parse elevation - ???? m
+Mozambique    Mountain	Comane	-16.194331	36.599735	939 m: Incorrect number of records - 5
+Mozambique	Mountain	Tipui	-13866	39.402200	458 m: Latitude out of range - -13866.0
+Mozambique	Mountain	Ecopo	??????	??????	431 m: unable to parse Latitude - ??????
+Mozambique	Mountain	Nahomo	-13.969414	39.954040 376 m: Incorrect number of records - 5
+Mozambique	Mountain	Silivala	-13709	40.377086	264 m: Latitude out of range - -13709.0
+Mozambique	Mountain	Nacoma	??????	??????	211 m: unable to parse Latitude - ??????
+Mozambique	Mountain	Nango	-17.416771 34.200170	378 m: Incorrect number of records - 5
+Norway    Mountain	Jiehkkevárri	69.469243	19.877617	1834 m: Incorrect number of records - 5
+Nicaragua	Volcano	San Cristóbal Volcano	12.703780	-87.000840	1061m: Unable to parse elevation - 1061m
+Peru	Mountain	Chumpi	-13.726190	-71.081960	6106m: Unable to parse elevation - 6106m
+Peru	Mountain	Nevado Jonorane	-14.081996 -70.770504	5553 m: Incorrect number of records - 5
+Peru	Mountain	Machupicchu Mountain	-13.1747287	-72.5418769	3061.28: Unable to parse elevation - 3061.28
+New Zealand	Mountain	Mount Gifford Third Peak    -44.728700	168.061924	2081 m: Incorrect number of records - 5
+New Zealand	Mountain	Ngarangipukahu	-35.512645	173.566958 718 m: Incorrect number of records - 5
+New Zealand	Mountain	Rotopaunga	??????	??????	1856 m: unable to parse Latitude - ??????
+New Zealand	Mountain	Te Koikoi    -38.515959	176.810436	864 m: Incorrect number of records - 5
+New Zealand	Mountain	Taharewaewae    -38.786516	176.968982	1013 m: Incorrect number of records - 5
+New Zealand    Mountain	Mount Gorgeous	-41.449086	172.250825	1261 m: Incorrect number of records - 5
+New Zealand	Mountain	Mount Argelin	-41.809368	173.572157	???? m: Unable to parse elevation - ???? m
+New Zealand	Mountain	Meteor Peak	-43.515784	170.234158 2624 m: Incorrect number of records - 5
+New Zealand	Mountain	Aiguilles Rouges	-43.577512	170.291729	2950 ??: Elevation units invalid - ??
+New Zealand	Mountain	Blair Peak	-43.282020	170.855182	2486m: Unable to parse elevation - 2486m
+New Zealand	Mountain	Ferintosh Peak	??????	??????	2497 m: unable to parse Latitude - ??????
+New Zealand	Mountain	Forest Peak	-42.891990	171.896979	1470m: Unable to parse elevation - 1470m
+New Zealand	Mountain	Chest Peak	-43.103225	172.020258 1936 m: Incorrect number of records - 5
+New Zealand    Mountain	Mount Barton	-41.556870	175.317244	889 m: Incorrect number of records - 5
+New Zealand	Mountain    Fleetwood Peak	-45.069400	167.262901	1286 m: Incorrect number of records - 5
+New Zealand	Mountain    Christmas Hill	-45.074114	167.309107	1165 m: Incorrect number of records - 5
+New Zealand	Mountain	Mount Owen	-45301	167.571273	1763 m: Latitude out of range - -45301.0
+New Zealand	Mountain	Lorn Peak    -45.343978	168.791876	1638 m: Incorrect number of records - 5
+Peru	Mountain	Nevado Yanaulo	-11.912652	-74.820124 5142 m: Incorrect number of records - 5
+Peru	Mountain	Punta Blanca Hill	-12.188345	-76.8366343	639.5: Unable to parse elevation - 639.5
+Botswana	Mountain	Botepetepe Hill	-22.392542	26.932595	1104m: Unable to parse elevation - 1104m
+Pakistan	Mountain	Chhatri Mountain	33.305527	74.105762	???? m: Unable to parse elevation - ???? m
+Philippines	Mountain    Mount Tungtayan	16.833333	120.650000	1600 m: Incorrect number of records - 5
+Philippines	Mountain	Mount Llorente	10966	122.316728	1344 m: Latitude out of range - 10966.0
+Russia	Mountain	Mount Dyultydag    41.956700	46.926300	4127 m: Incorrect number of records - 5
+Philippines	Mountain	Mount Orcog	16.483190	121.000028	???? m: Unable to parse elevation - ???? m
+South Africa    Mountain	Kanonkop	-29.248007	17.736402	948 m: Incorrect number of records - 5
+South Africa    Mountain	Rietberg	-29.485528	17.883860	1313 m: Incorrect number of records - 5
+South Africa	Mountain	Koeberg	-33.716387	18.555995 351 m: Incorrect number of records - 5
+South Africa	Mountain	Bordje	??????	??????	245 m: unable to parse Latitude - ??????
+South Africa	Mountain	Groot Phesantekraal	-33.798438	18.676031 95 m: Incorrect number of records - 5
+South Africa	Mountain	Wemmershoekpiek    -33.854240	19.189038	1687 m: Incorrect number of records - 5
+South Africa	Mountain	Spitskop	??????	??????	1204 m: unable to parse Latitude - ??????
+South Africa	Mountain	Vaalkop	-25.567645	26265	1402 m: Longitude out of range - 26265.0
+South Africa	Mountain	Baskop	-28.121794	27.103410	1411m: Unable to parse elevation - 1411m
+South Africa	Mountain	Ribbokkop	-23.954091	28.532957	1461 ??: Elevation units invalid - ??
+South Africa	Mountain    Tama Kgoshi	-24.724481	30.048128	1883 m: Incorrect number of records - 5
+South Africa    Mountain	Nyunyani	-22.823021	31.125341	454 m: Incorrect number of records - 5
+South Africa	Mountain	Bokweni    -27.369997	31.986502	675 m: Incorrect number of records - 5
+South Africa	Mountain	Mpampamana	-27.606478	31.901326	462 ??: Elevation units invalid - ??
+South Africa	Mountain	Kamrant	-30.882623 23.054610	1263 m: Incorrect number of records - 5
+South Africa	Mountain	Bloukop	-29.050638	26.583792	???? m: Unable to parse elevation - ???? m
+South Africa	Mountain	Intabamnyama	-30.605451	27.669758	2432 ??: Elevation units invalid - ??
+South Africa	Mountain	Grootberg	-32.222850	23.867171	???? m: Unable to parse elevation - ???? m
+South Africa	Mountain	Beyersfontein    -32.344544	23.357161	1123 m: Incorrect number of records - 5
+South Africa	Mountain	Spitskop	-32767	24.146866	958 m: Latitude out of range - -32767.0
+South Africa	Mountain	Nsaly	-28.906220 30.617121	1338 m: Incorrect number of records - 5
+South Africa	Mountain	Nkengeni	-30.048407	30.187172 898 m: Incorrect number of records - 5
+Taiwan	Mountain    Hong Mountain	24.444876	118.239261	80 m: Incorrect number of records - 5
+Taiwan	Mountain	Hutou Mountain	??????	??????	61 m: unable to parse Latitude - ??????
+Taiwan	Mountain	Dashe Mountain	24.258065	120.688706	182 ??: Elevation units invalid - ??
+Taiwan	Mountain	Dapingshan	22.981928	120.355842 68 m: Incorrect number of records - 5
+Taiwan	Mountain	Chacingjiao	22.940978	120.569226	415m: Unable to parse elevation - 415m
+Taiwan    Mountain	Beinan Main Mountain	23.051081	120.874347	3293 m: Incorrect number of records - 5
+Taiwan	Mountain    Neipo Mountain	24.946188	121.455944	368 m: Incorrect number of records - 5
+Taiwan	Mountain	Poluo Mountain	24.639374	121.477071	???? m: Unable to parse elevation - ???? m
+Taiwan	Mountain	Pingfong Mountain	24.149645	121342	3248 m: Longitude out of range - 121342.0
+Taiwan	Mountain    Qilai Mountain	24.086174	121.323328	3559 m: Incorrect number of records - 5
+Tanzania	Mountain	Chenene	-5.585119	35.808563	1794 ??: Elevation units invalid - ??
+Tanzania	Mountain	Parmusani    -8.834315	34.804419	1658 m: Incorrect number of records - 5
+United States	Mountain	Mount Angeles	47.9953210419245	-123.467273712158	6454 ft: Elevation units invalid - ft
+United States	Mountain	El Capitan	41.8691134189186	-123.611812591553	6814 ft: Elevation units invalid - ft
+United States	Mountain	Square Peak	48.866409	-114.104519 2675 m: Incorrect number of records - 5
+United States	Mountain	Mount Diablo	59.539528	-150.706909	3501 ft: Elevation units invalid - ft
+United States	Mountain	The Brothers	47.6537675663531	-123.14094543457	6866 ft: Elevation units invalid - ft
+United States	Mountain	Kaala	21.5079386882082	-158.142528533936	4025 ft: Elevation units invalid - ft
+United States	Volcano	Haleakala	20.7100375889508	-156.25373840332	10,023 ft: Unable to parse elevation - 10,023 ft
+United States	Volcano	Diamond Peak	43.5207341404668	-122.149515151978	8750 ft: Elevation units invalid - ft
+United States	Volcano	Mount Scott	42.932762	-122.015266	8929 ft: Elevation units invalid - ft
+United States	Mountain	Mount Bross	39.3352932229744	-106.107501983643	14,172 ft: Unable to parse elevation - 14,172 ft
+United States	Mountain	Columbia Point	38.2963896	-105.2033248	13,980 ft: Unable to parse elevation - 13,980 ft
+United States	Mountain	Horse Butte	43.005275	-113.191710	1539m: Unable to parse elevation - 1539m
+United States	Mountain	Mount Rushmore	43.880077621969	-103.459367752075	5725 ft: Elevation units invalid - ft
+United States	Mountain	Mount Zirkel	40.8312811391357	-106.663255691528	12,180 ft: Unable to parse elevation - 12,180 ft
+United States	Mountain	Challenger Point	37.9797245503786	-105.602645874023	14,080 ft: Unable to parse elevation - 14,080 ft
+United States	Mountain	Strawberry Mountain	44.3119345949703	-118.716287612915	9038 ft: Elevation units invalid - ft
+United States    Mountain	Fresno Dome	37.452666	-119.546666	2298 m: Incorrect number of records - 5
+United States	Mountain	Shiprock	36.6876931656454	-108.836488723755	7178 ft: Elevation units invalid - ft
+United States	Mountain	Sloan Peak	48.0414798460743	-121.340217590332	7835 ft: Elevation units invalid - ft
+United States	Mountain	Wyoming Peak	42.6153280787144	-110.627431869507	11,378 ft: Unable to parse elevation - 11,378 ft
+United States	Mountain	North Maroon Peak	39.0760430125401	-106.98709487915	14,014 ft: Unable to parse elevation - 14,014 ft
+United States	Mountain	High Point	41.2894805486521	-73.9603042602539	1803 ft: Elevation units invalid - ft
+United States	Mountain	Mount Frissell-South Slope	42.051395865422	-73.482141494751	2380 ft: Elevation units invalid - ft
+United States	Mountain	Lone Mountain	45.2782083170843	-111.450634002686	11,166 ft: Unable to parse elevation - 11,166 ft
+United States	Mountain	Mount Douglas	45.297882	-110.184761	11,300 ft: Unable to parse elevation - 11,300 ft
+United States	Mountain	Hyndman Peak	43.7493351828317	-114.131212234497	12,078 ft: Unable to parse elevation - 12,078 ft
+United States	Mountain	Washakie Needles	43.7475371069627	-109.2018699646	12,518 ft: Unable to parse elevation - 12,518 ft
+United States	Mountain	Backbone Mountain	39.2375716178457	-79.4853973388672	3360 ft: Elevation units invalid - ft
+United States	Mountain	Mount Doonerak	67.909737	-150.616608	7457 ft: Elevation units invalid - ft
+United States	Mountain	North Gardner Mountain	48.5153535343566	-120.501651763916	8956 ft: Elevation units invalid - ft
+United States	Mountain	Mount Curtis Gilbert	46.4883471028902	-121.407852172852	8184 ft: Elevation units invalid - ft
+United States	Volcano	Mount Hood	45.3734935430662	-121.69581413269	11,239 ft: Unable to parse elevation - 11,239 ft
+United States	Mountain	Clements Mountain	48.692433	-113.741026	???? m: Unable to parse elevation - ???? m
+United States	Mountain	Tweedy Mountain	45.4804752790816	-112.96537399292	11,154 ft: Unable to parse elevation - 11,154 ft
+United States	Mountain	Hollowtop Mountain	45.6116358575251	-112.008275985718	10,513 ft: Unable to parse elevation - 10,513 ft
+United States	Volcano	South Sister	44.1035502789205	-121.769371032715	10,358 ft: Unable to parse elevation - 10,358 ft
+United States	Mountain	Devils Tower	44.5905283049887	-104.715156555176	5110 ft: Elevation units invalid - ft
+United States	Mountain	Mount Powell	39.7603213077231	-106.340618133545	13,534 ft: Unable to parse elevation - 13,534 ft
+United States	Mountain	Mount Greylock	42.6373684741228	-73.1660270690918	3495 ft: Elevation units invalid - ft
+United States	Mountain	Saddleback Mountain	44.9364913577779	-70.5047607421875	4116 ft: Elevation units invalid - ft
+United States	Mountain	Stony Man Mountain	38.5978892175911	-78.3719158172608	4010 ft: Elevation units invalid - ft
+United States	Mountain	Denali	63.0695	-151.0074	20,320 ft: Unable to parse elevation - 20,320 ft
+United States	Volcano	Kawaikini	22.0585166537647	-159.497537612915	5243 ft: Elevation units invalid - ft
+Venezuela	Mountain	Pico Piedras Blancas	8.8587401	-70.9516597	4737.3: Unable to parse elevation - 4737.3
+Venezuela	Mountain	Pico Bolívar	8.5411373	-71.0482708	4978.4: Unable to parse elevation - 4978.4
+Venezuela	Mountain	Cerro La Virgen	6.06925	-61.4008713	508.09: Unable to parse elevation - 508.09
+Venezuela	Mountain	Cerro Lema	6.1642997	-61.3524843	715.07: Unable to parse elevation - 715.07
+Venezuela	Mountain	Cerro Desayuno	6.441563	-61.3771392	751.49: Unable to parse elevation - 751.49
+Venezuela	Mountain	Cerro de La Fundación	6.9085337	-61.5310336	364.19: Unable to parse elevation - 364.19
+Venezuela	Mountain	Piedra del Supamo	6.78616	-61.9803573	586.63: Unable to parse elevation - 586.63
+Venezuela	Mountain	Cerro Chiguao	6.1366719	-63.0916715	755.29: Unable to parse elevation - 755.29
+Venezuela	Mountain	Cerro El Gallo	6.0153063	-63.2252777	811.53: Unable to parse elevation - 811.53
+Venezuela	Mountain	Cerro La Bonita	6.3657783	-63.0309463	610.70: Unable to parse elevation - 610.70
+Venezuela	Mountain	Cerro La Meseta	6.456936	-63.2472611	560.17: Unable to parse elevation - 560.17
+Venezuela	Mountain	Cerro Guacamayo	7.7134795	-62.2707224	649.6: Unable to parse elevation - 649.6
+Venezuela	Mountain	Loma Las Mulas	7.9736428	-62.2087527	569.97: Unable to parse elevation - 569.97
+Venezuela	Mountain	Cerro Machín	7.7905102	-62.3777962	644.82: Unable to parse elevation - 644.82
+Venezuela	Mountain	Cerro El Orégano	7.9968686	-62.3043251	392.4: Unable to parse elevation - 392.4
+Venezuela	Mountain	Cerro San Joaquín	8.3105305	-62.6483345	136.80: Unable to parse elevation - 136.80
+Venezuela	Mountain	Cerro El Gallo	8.3624067	-62.6431591	122.52: Unable to parse elevation - 122.52
+Venezuela	Mountain	Cerro Quemado (El Chupi)	8.2487023	-62.7952999	196.11: Unable to parse elevation - 196.11
+Venezuela	Mountain	Cerro La Yegüera	??????	??????	255 m: unable to parse Latitude - ??????
+Venezuela	Mountain	Cerro Orocopiche	8.0305469	-63.6554933	154.64: Unable to parse elevation - 154.64
+Venezuela	Mountain	Cerro El Judío	8.1575006	-63.7535334	66.26: Unable to parse elevation - 66.26
+Venezuela	Mountain	Piedra Gorda	7.8611712	-64.0757847	208.69: Unable to parse elevation - 208.69
+Venezuela	Mountain	Alto Palmarito	8.056319	-64.1273905	118.36: Unable to parse elevation - 118.36
+Venezuela	Mountain	Cerro La Fila	7.7660184	-64.2746973	185.53: Unable to parse elevation - 185.53
+Venezuela	Mountain	Cerro Malena	7.7701855	-64.3821145	44.44: Unable to parse elevation - 44.44
+Venezuela	Mountain	Cerro Moitaco	7.9712627	-64.3797756	181.20: Unable to parse elevation - 181.20
+Venezuela	Mountain	Cerro Quemado	7.8743072	-64.6122265	81.66: Unable to parse elevation - 81.66
+Venezuela	Mountain	Cerro Morrocoyes	6.348675	-67.4267221	151.15: Unable to parse elevation - 151.15
+Venezuela	Mountain	Cerro Cabruta	7.6614658	-66.2609482	250.77: Unable to parse elevation - 250.77
+Venezuela	Mountain	Aguada de Bejuquero	9.6361863	-67.2280455	504.6: Unable to parse elevation - 504.6
+Venezuela	Mountain	Cerro La Galera	9.5723665	-67.4207676	589.4: Unable to parse elevation - 589.4
+Venezuela	Mountain	Loma de Hierro	10.1708258	-67.1070672	1222.5: Unable to parse elevation - 1222.5
+Venezuela	Mountain	Cerro Tarpeya	10.4915965	-66.9018647	994.32: Unable to parse elevation - 994.32
+Venezuela	Mountain	Topo El Carmen	10.4705417	-66.9381738	1215.33: Unable to parse elevation - 1215.33
+Venezuela	Mountain	Topo Valle Alegre	10.4689064	-66.9296444	1246.17: Unable to parse elevation - 1246.17
+Venezuela	Mountain	Cerro Cementerio	10.4722297	-66.9334692	1220.98: Unable to parse elevation - 1220.98
+Venezuela	Mountain	Cerro Sabaneta	10.3109082	-67.0943642	1414.8: Unable to parse elevation - 1414.8
+Venezuela	Mountain	Alto del Vertedero	10.5345431	-66.9795924	732.25: Unable to parse elevation - 732.25
+Venezuela	Mountain	Topo Papelón del Norte (La Matica)	10.1717551	-67.2081328	1499.3: Unable to parse elevation - 1499.3
+Venezuela	Mountain	Cerro Pariapán	9.909079	-67.338295	795.6: Unable to parse elevation - 795.6
+Venezuela	Mountain	Topo Griteño (Loma del Valle)	10.1285398	-67.340827	1397.5: Unable to parse elevation - 1397.5
+Venezuela	Mountain	Cerro Santo Domingo	10.2731381	-67.2030688	1187.4: Unable to parse elevation - 1187.4
+Venezuela	Mountain	Topo Maletero	10.2606808	-67.2958303	1250.7: Unable to parse elevation - 1250.7
+Venezuela	Mountain	Topo Zamuro	10.3136315	-67.3980117	1639.4: Unable to parse elevation - 1639.4
+Venezuela	Mountain	Cerro Merceditas	10.2238761	-68.1512404	1628.42: Unable to parse elevation - 1628.42
+Venezuela	Mountain	Cerro La Cruz	10.0949943	-68.2780338	1048.6: Unable to parse elevation - 1048.6
+Venezuela	Mountain	Cerro La Encrucijada	10.0335133	-68.3207131	915.51: Unable to parse elevation - 915.51
+Venezuela	Mountain	Cerro Sabaneta	10.1741207	-68.3104134	868.98: Unable to parse elevation - 868.98
+Venezuela	Mountain	Cerro El Cedro	10.1284131	-68.3603454	1116.85: Unable to parse elevation - 1116.85
+Venezuela	Mountain	Cerro San Vicente	10.182104	-68.4548664	1044.75: Unable to parse elevation - 1044.75
+Venezuela	Mountain	Alto El Silencio	10.8719977	-68.3322144	284.22: Unable to parse elevation - 284.22
+Venezuela	Mountain	Cerro Dividive	10.5521999	-68.5099054	145.57: Unable to parse elevation - 145.57
+Venezuela	Mountain	Cerro El Encanto	9.6297128	-69.018066	332.41: Unable to parse elevation - 332.41
+Venezuela	Mountain	Cerro La Puya	9.7449261	-69.0483857	785.11: Unable to parse elevation - 785.11
+Venezuela	Mountain	Cerro El Parque	9.774955	-69.2481566	1158.14: Unable to parse elevation - 1158.14
+Venezuela	Mountain	Cerro Vallecito	9.0121235	-69.8163987	313.94: Unable to parse elevation - 313.94
+Venezuela	Mountain	Cerro La Enjalma	10.0928818	-68.956697	620.4: Unable to parse elevation - 620.4
+Venezuela	Mountain	Cerro El Rodeo	10.0193774	-69.107287	514.08: Unable to parse elevation - 514.08
+Venezuela	Mountain	Cerro Cocuiza	9.916308	-69.254036	1241.81: Unable to parse elevation - 1241.81
+Venezuela	Mountain	Cerro Agua Negra (El Pontero)	10.0380773	-69.1609526	533.38: Unable to parse elevation - 533.38
+Venezuela	Mountain	Cerro Chorrerón	10.1800342	-69.1010213	1127.13: Unable to parse elevation - 1127.13
+Venezuela	Mountain	Cerro Santa Lucía	10.1956203	-68.9934969	1136.36: Unable to parse elevation - 1136.36
+Venezuela	Mountain	Alto Manzano	10.0112632	-69.3361974	908.16: Unable to parse elevation - 908.16
+Venezuela	Mountain	Cerro Gordo	10.1172598	-69.3215847	909.36: Unable to parse elevation - 909.36
+Venezuela	Mountain	Cerro Uraca	10.0505644	-69.4632268	954.17: Unable to parse elevation - 954.17
+Venezuela	Mountain	Cerro Salto de León	10.1655034	-69.4475198	1068.2: Unable to parse elevation - 1068.2
+Venezuela	Mountain	Pico Rejo	8.3177494	-71.346159	3635.03: Unable to parse elevation - 3635.03
+Venezuela	Mountain	Pico de Horma	8.0381958	-71.570499	3320.71: Unable to parse elevation - 3320.71
+Venezuela	Mountain	Cerro Molino	8.2789142	-71.5697694	3249.59: Unable to parse elevation - 3249.59
+Venezuela	Mountain	Topo Río Negro	8.2896107	-71.6558254	3223.51: Unable to parse elevation - 3223.51
+Venezuela	Mountain	Pico Las Tapias	8.20771	-71.7990017	3532.49: Unable to parse elevation - 3532.49
+Venezuela	Mountain	Cerro El Frío	8.8678991	-70.3856707	1875.93: Unable to parse elevation - 1875.93
+Venezuela	Mountain	Pico Güirigay	8.9578553	-70.5532229	3869.6: Unable to parse elevation - 3869.6
+Venezuela	Mountain	Cerro Gordo	9.0879009	-70.5885744	3804.17: Unable to parse elevation - 3804.17
+Venezuela	Mountain	Topo Santo Domingo	8.7595028	-70.8065415	4609.2: Unable to parse elevation - 4609.2
+Venezuela	Mountain	Pico San Pedro	9.0847014	-70.7967568	3894.69: Unable to parse elevation - 3894.69
+Venezuela	Mountain	Cerro Escuque	9.2417796	-70.7172347	2327.62: Unable to parse elevation - 2327.62
+Venezuela	Mountain	Pico El Toro	8.529003	-71.090802	4726.98: Unable to parse elevation - 4726.98
+Venezuela	Mountain	Pico Campanario	8.6771878	-71.2574315	4298.77: Unable to parse elevation - 4298.77
+Venezuela	Mountain	Cerro El Tambor	8.6108519	-71.4028073	3054.15: Unable to parse elevation - 3054.15
+Namibia	Mountain	Platkop    -24.627984	16.568174	1501 m: Incorrect number of records - 5
+Namibia	Mountain	Nagel	-25317	16.222028	1562 m: Latitude out of range - -25317.0
+Namibia	Mountain	Hahnenkarn	-25.643697 16.463153	1864 m: Incorrect number of records - 5
+Namibia    Mountain	Ganaams	-25.583271	16.568878	1928 m: Incorrect number of records - 5
+Namibia	Mountain    Rotkuppe	-27.058584	15.586578	592 m: Incorrect number of records - 5
+Namibia    Mountain	Eroseck	-22.515506	17.142596	1888 m: Incorrect number of records - 5
+Namibia	Mountain	Bitter	??????	??????	1002 m: unable to parse Latitude - ??????
+Canada	Mountain	Mount Edith Cavell	52.667419	-118.056633	3368 ??: Elevation units invalid - ??
+Sri Lanka	Mountain	Little Adam's Peak	6.865050	81.063017 1151 m: Incorrect number of records - 5
+Sri Lanka	Mountain	Buwalpola Kanda    6.974863	80.881605	1681 m: Incorrect number of records - 5
+Chile	Volcano	Volcán Miño	-21.185527	-68.604327	5631m: Unable to parse elevation - 5631m
+Chile	Mountain	Alto de las Placetas	-34.855087	-70.469549	???? m: Unable to parse elevation - ???? m
+Chile	Mountain	Cerro Bayo	-45.1031359	-71.5265831	1370.8: Unable to parse elevation - 1370.8
+Chile	Mountain	Cerro Tres Horquetas	-39.022835	-71916	1533 m: Longitude out of range - -71916.0
+Chile	Mountain	Cerro Casa de Piedra	-38.249033	-71.806126	1711 ??: Elevation units invalid - ??
+Chile	Mountain	Cerro Rincón de Abra	??????	??????	725 m: unable to parse Latitude - ??????
+Chile	Mountain	Cerro Mudaumo	-34.180326	-71.089585	1211m: Unable to parse elevation - 1211m
+Chile    Mountain	Cerro Risco Bayo	-34.299958	-71.218016	901 m: Incorrect number of records - 5
+Chile	Mountain	Cerro Mancumán	-34.414249	-71.345908	???? m: Unable to parse elevation - ???? m
+Chile	Mountain	Piedra Grande	-34.015627	-71.580055	297m: Unable to parse elevation - 297m
+Chile	Mountain	Cerro El Jote	-29.995756	-71.170221 839 m: Incorrect number of records - 5
+Chile	Mountain	Monte Aymond	-52.1516536	-69.4863161	278.9: Unable to parse elevation - 278.9
+Chile	Mountain	Cerro Águila	-46.8569226	-71.9337291	2045.4: Unable to parse elevation - 2045.4
+Chile	Mountain	Cerro Cumbre Rojiza	-46.8298327	-71.941545	1407.4: Unable to parse elevation - 1407.4
+Chile    Mountain	Cerro Moreno	-22.982317	-67.153988	4524 m: Incorrect number of records - 5
+Chile	Mountain	Cerro Cenizo	-40.944977	-72.203896	1663m: Unable to parse elevation - 1663m
+Chile    Mountain	Cerro El Mirador	-39.202113	-72.610524	520 m: Incorrect number of records - 5
+Chile	Mountain	Cerro Las Sierrecillas	-33.966890	-70.856538	???? m: Unable to parse elevation - ???? m
+Colombia    Mountain	Cerro	7.291370	-72.806362	4008 m: Incorrect number of records - 5
+Ecuador	Mountain	Genovesa	??????	??????	64 m: unable to parse Latitude - ??????
+Ecuador	Mountain	Cerro de Arcos	-3.5599383	-79.4599486	3733.43: Unable to parse elevation - 3733.43
+Ecuador	Mountain	Ilaló    -0.258002	-78.410616	3150 m: Incorrect number of records - 5
+Ecuador	Mountain	Monja Chica	-1.682701	-78.411941	5080 ??: Elevation units invalid - ??
+Ecuador	Mountain	Cuniburo	-0.037132	-78.152913 3346 m: Incorrect number of records - 5
+Ecuador	Mountain	Consuelo	-4.0049888	-79.0558478	2618.05: Unable to parse elevation - 2618.05
+Ecuador	Mountain	Cerro Tambo Blanco	-3.7145292	-79.1831231	3131.68: Unable to parse elevation - 3131.68
+Ecuador	Mountain	Cerro Artezones	-3.6478948	-79.1037459	3329.20: Unable to parse elevation - 3329.20
+Ecuador	Mountain	Cerro Peñas Blancas	-3.6613601	-79.1583825	3195.88: Unable to parse elevation - 3195.88
+Ecuador	Mountain	Cerro Ventanas	-3.6879986	-79.1806984	3099.29: Unable to parse elevation - 3099.29
+Ecuador	Mountain	Loma Corral Viejo	-3.563986	-79.1549707	3122.96: Unable to parse elevation - 3122.96
+Ecuador	Mountain	Loma Torre	-3.6791924	-79.2344928	3212.07: Unable to parse elevation - 3212.07
+Ecuador	Mountain	Borma	-3.764671	-79.307744	3000m: Unable to parse elevation - 3000m
+Ecuador	Mountain	Fierro Urcu	-3.6902176	-79.3516863	3689.20: Unable to parse elevation - 3689.20
+Ecuador	Mountain	Coposo	-3.4927734	-79.3607202	3028.28: Unable to parse elevation - 3028.28
+Ecuador	Mountain	Cerro La Arquilla	-3.3977601	-79.360428	1853.41: Unable to parse elevation - 1853.41
+Ecuador	Mountain	Ugsha	-3.4378576	-79.428277	3130.52: Unable to parse elevation - 3130.52
+Ecuador	Mountain	Cerro Arquitecto	??????	??????	4307 m: unable to parse Latitude - ??????
+Ecuador	Mountain	Cerro Cabeza	-0.999432	-78.876824	???? m: Unable to parse elevation - ???? m
+Ecuador	Mountain	El Centinela    -0.478938	-79.030175	2570 m: Incorrect number of records - 5
+Ecuador	Mountain	Gatazo	0.8078653	-79.6671331	486.78: Unable to parse elevation - 486.78
+Ethiopia	Mountain	Ualle Issi	11.420321	41.326805 492 m: Incorrect number of records - 5
+Andorra    Mountain	Casamanya Peak	42.584607	1.565447	2740 m: Incorrect number of records - 5
+Fiji	Mountain	Korokayiu	-18.183330	177900	312 m: Longitude out of range - 177900.0
+Fiji	Mountain	Tomuna    -17.650000	178.783330	272 m: Incorrect number of records - 5
+Germany	Mountain	Hinterreintalschrofen	??????	??????	2670 m: unable to parse Latitude - ??????
+Guatemala	Mountain	Chingo	14.121510	-89.734680	1775m: Unable to parse elevation - 1775m
