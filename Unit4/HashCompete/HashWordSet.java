@@ -132,20 +132,19 @@ public class HashWordSet {
      * @return the hash value, as a number in the range [0, 52]
      */
     private int hash(String word, int first, int second) {
-        int hash = 104;  //256
+        int hash = first;  //104
         int sum = 0;
         for (int i = 0; i < word.length(); i++) {
             char c = word.charAt(i);
-            hash = hash * c+sum; //27
+            hash = hash * c+sum; 
             sum = (int)Math.pow(sum+c-hash,2.0);
-            // hash = ((hash << 5) + hash) + c;
         }
         try{
-        hash += (hash << 13);
-        hash ^= (hash >>> 13);
-        hash += (hash << 13);
-        hash ^= (hash >>> 13);
-        hash += (hash << 13 );
+        hash += (hash << second);
+        hash ^= (hash >>> second);
+        hash += (hash << second); //13
+        hash ^= (hash >>> second);
+        hash += (hash << second );
         }catch(RuntimeException e){
 
         }

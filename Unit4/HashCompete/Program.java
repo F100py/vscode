@@ -7,7 +7,7 @@ import java.util.Scanner;
 import java.util.stream.IntStream;
 
 public class Program {
-    public static final String _bookFile = "Unit4\\HashCompete\\twoCities.txt";
+    public static final String _bookFile = "Unit4\\HashCompete\\pride_and_prejudice.txt";
     static double lowest;
     static int first;
     static int second;
@@ -22,23 +22,23 @@ public class Program {
         second = 0;
         lowest = 1000.0;
 
-        IntStream.range(0, 129*20).parallel().forEach(i ->{
+        IntStream.range(0, 257*30).parallel().forEach(i ->{
             File file = new File(_bookFile);
             try{
                 Scanner reader = new Scanner(file, "UTF-8");
                 HashWordSet hash = new HashWordSet();
                 while(reader.hasNext()) {
-                    hash.add(reader.next(), i%129+1, i/129+1);
+                    hash.add(reader.next(), i%257+1, i/257+1);
                 }
                 double tempfactor = hash.getEfficiencyFactor();
 
                 if (tempfactor<100)
-                System.out.println("-----------------------------------------------------------"+(int)tempfactor);
-                System.out.println("hashnum, efficiency factor: " +i%129+1 +", "+(int)(tempfactor)+", second " + i/129+1);
+                // System.out.println("-----------------------------------------------------------"+(int)tempfactor);
+                System.out.println("hashnum, efficiency factor: " +i%257+1 +", "+(int)(tempfactor)+", second " + i/257+1);
                 if (tempfactor<lowest){
                     lowest = hash.getEfficiencyFactor();
-                    first = i%129+1;
-                    second = i/129+1;
+                    first = i%257+1;
+                    second = i/257+1;
                 }
                 reader.close();
             }catch(FileNotFoundException f){
