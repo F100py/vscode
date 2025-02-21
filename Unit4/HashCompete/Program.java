@@ -7,7 +7,7 @@ import java.util.Scanner;
 import java.util.stream.IntStream;
 
 public class Program {
-    public static final String _bookFile = "Unit4\\HashCompete\\pride_and_prejudice.txt";
+    public static final String _bookFile = "Unit4\\HashCompete\\twoCities.txt";
     static double lowest;
     static int first;
     static int second;
@@ -20,21 +20,25 @@ public class Program {
         
         first = 0;
         second = 0;
-        lowest = 500.0;
+        lowest = 1000.0;
 
-        IntStream.range(0, 257).parallel().forEach(i ->{
+        IntStream.range(0, 129*20).parallel().forEach(i ->{
             File file = new File(_bookFile);
             try{
                 Scanner reader = new Scanner(file, "UTF-8");
                 HashWordSet hash = new HashWordSet();
                 while(reader.hasNext()) {
-                    hash.add(reader.next(), i);
+                    hash.add(reader.next(), i%129+1, i/129+1);
                 }
                 double tempfactor = hash.getEfficiencyFactor();
-                // System.out.println("hashnum, efficiency factor: " +i +", "+(int)(tempfactor));
+
+                if (tempfactor<100)
+                System.out.println("-----------------------------------------------------------"+(int)tempfactor);
+                System.out.println("hashnum, efficiency factor: " +i%129+1 +", "+(int)(tempfactor)+", second " + i/129+1);
                 if (tempfactor<lowest){
                     lowest = hash.getEfficiencyFactor();
-                    first = i;
+                    first = i%129+1;
+                    second = i/129+1;
                 }
                 reader.close();
             }catch(FileNotFoundException f){
@@ -43,7 +47,7 @@ public class Program {
             
         });
 
-        System.out.println("The First for the best ef is: "+first +", "+lowest);
+        System.out.println("The First for the best ef is: "+first +", "+lowest+", "+second);
         
         // print the hash object
         

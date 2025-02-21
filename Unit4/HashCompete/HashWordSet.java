@@ -37,8 +37,8 @@ public class HashWordSet {
      * @param word - word to be tested.
      * @return true if the word is present in the hash, false otherwise.
      */
-    private boolean contains(String word, int first) {
-        int h = hash(word, first);
+    private boolean contains(String word, int first, int second) {
+        int h = hash(word, first, second);
         Node current = elementData[h];
         while (current != null) {
             if (current.word.equals(word)) {
@@ -61,10 +61,10 @@ public class HashWordSet {
      * Adds the given word, in normalized form, to the HashWordSet.
      * @param word - word to be added to the hash.
      */
-    public void add(String word, int first) {
+    public void add(String word, int first, int second) {
         String normWord = normalize(word);
-        if (!contains(normWord, first)) {
-            int h = hash(normWord, first);
+        if (!contains(normWord, first, second)) {
+            int h = hash(normWord, first, second);
             Node newNode = new Node(normWord);
             newNode.next = elementData[h];
             elementData[h] = newNode;
@@ -131,8 +131,8 @@ public class HashWordSet {
      * @param word - the word for which the hash value is calculated.
      * @return the hash value, as a number in the range [0, 52]
      */
-    private int hash(String word, int first) {
-        int hash = first;  //256
+    private int hash(String word, int first, int second) {
+        int hash = 104;  //256
         int sum = 0;
         for (int i = 0; i < word.length(); i++) {
             char c = word.charAt(i);
@@ -140,12 +140,15 @@ public class HashWordSet {
             sum = (int)Math.pow(sum+c-hash,2.0);
             // hash = ((hash << 5) + hash) + c;
         }
-        hash += (hash << 's'%12);
-        hash ^= (hash >>> 'i'%12);
-        hash += (hash << 'g'%12);
-        hash ^= (hash >>> 'm'%12);
-        hash += (hash << 'a'%12);
-        
+        try{
+        hash += (hash << 13);
+        hash ^= (hash >>> 13);
+        hash += (hash << 13);
+        hash ^= (hash >>> 13);
+        hash += (hash << 13 );
+        }catch(RuntimeException e){
+
+        }
         
         int n = (hash*sum)%53;
         // int n = hash%53;
