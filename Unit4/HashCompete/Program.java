@@ -7,7 +7,7 @@ import java.util.Scanner;
 import java.util.stream.IntStream;
 
 public class Program {
-    public static final String _bookFile = "Unit4\\HashCompete\\pride_and_prejudice.txt";
+    public static final String _bookFile = "Unit4\\HashCompete\\twoCities.txt";
     static double lowest;
     static int first;
     static int second;
@@ -20,7 +20,7 @@ public class Program {
         
         first = 0;
         second = 0;
-        lowest = 500.0;
+        lowest = 1000.0;
 
         IntStream.range(0, 129*20).parallel().forEach(i ->{
             File file = new File(_bookFile);
@@ -31,7 +31,7 @@ public class Program {
                     hash.add(reader.next(), i%129+1, i/129+1);
                 }
                 double tempfactor = hash.getEfficiencyFactor();
-                
+
                 if (tempfactor<100)
                 System.out.println("-----------------------------------------------------------"+(int)tempfactor);
                 System.out.println("hashnum, efficiency factor: " +i%129+1 +", "+(int)(tempfactor)+", second " + i/129+1);
