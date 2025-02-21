@@ -28,16 +28,17 @@ public class Program {
                 Scanner reader = new Scanner(file, "UTF-8");
                 HashWordSet hash = new HashWordSet();
                 while(reader.hasNext()) {
-                    hash.add(reader.next(), 105, 14);
+                    hash.add(reader.next(), i%129+1, i/129+1);
                 }
                 double tempfactor = hash.getEfficiencyFactor();
+                
                 if (tempfactor<100)
                 System.out.println("-----------------------------------------------------------"+(int)tempfactor);
                 System.out.println("hashnum, efficiency factor: " +i%129+1 +", "+(int)(tempfactor)+", second " + i/129+1);
                 if (tempfactor<lowest){
                     lowest = hash.getEfficiencyFactor();
-                    first = i/20+1;
-                    second = i%20+1;
+                    first = i%129+1;
+                    second = i/129+1;
                 }
                 reader.close();
             }catch(FileNotFoundException f){
